@@ -5,6 +5,10 @@ in other words: replace `<img>` to `<picture>` for supports webp
 
 **Support file extensions:**  `.jpg, .png, .gif, .jpeg, .avif, .svg, .tiff`
 
+Package home page: https://www.npmjs.com/package/gulp-xv-webp-html
+
+
+
 ## Output Example
 
 ```html
@@ -29,6 +33,7 @@ npm
 npm i --save-dev gulp-xv-webp-html
 ```
 
+
 ## Usage
 #### Example #1
 ```javascript
@@ -42,6 +47,7 @@ function html() {
 
 exports.html = html;
 ```
+
 
 #### Example #2
 ```javascript
