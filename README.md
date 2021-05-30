@@ -7,8 +7,6 @@ in other words: replace `<img>` to `<picture>` for supports webp
 
 Package home page: https://www.npmjs.com/package/gulp-xv-webp-html
 
-
-
 ## Output Example
 
 ```html
@@ -24,6 +22,8 @@ Package home page: https://www.npmjs.com/package/gulp-xv-webp-html
     <img class="lazyload" src="images/Image.jpg" width="100" height="100">
 </picture>
 ```
+
+Also, more practical of use you can find in my other project [Gulp HTML Template](https://github.com/xvoland/Gulp-HTML-Template.git)
 
 
 ## Install
