@@ -51,3 +51,23 @@ gulp.task("webpHTML", function(){
            .pipe(webpHTML())
            .pipe(gulp.dest('./destHTML/'))})
 ```
+
+
+
+
+## Donation & Sponsors
+
+Donate any amount for my projects <a href='https://paypal.me/xvoland'>https://paypal.me/xvoland</a>
+
+
+You are more than welcome to donate me some beer money :)
+
+<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D4YBRWH8QURU'><img alt='Click here to lend your support to Extractor and make a donation!' src='https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif' border='0' /></a>
+
+
+
+
+## License
+
+Author [Vitalii Tereshchuk](https://dotoca.net). &copy; 2021, MIT license.
+Or welcome to my <a href='https://www.youtube.com/user/xVoLAnD'>YouTube channel</a>
