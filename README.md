@@ -17,7 +17,8 @@ in other words: replace `<img>` to `<picture>` for supports webp
 <picture>
     <source srcset="/images/Image.webp" type="image/webp">
     <source srcset="/images/Image.jpg" type="image/jpeg">
-    <img class="lazyload" src="images/main.jpg" width="100" height="100"></picture>
+    <img class="lazyload" src="images/main.jpg" width="100" height="100">
+</picture>
 ```
 
 
