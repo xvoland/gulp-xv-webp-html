@@ -1,6 +1,6 @@
 {
   "name": "gulp-xv-webp-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GULP extension for support <picture> tag WEBP images and replace original image <img> tag in HTML",
   "main": "index.js",
   "scripts": {
