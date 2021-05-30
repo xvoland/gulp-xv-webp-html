@@ -1,10 +1,21 @@
 "use strict";
+/* gulp-xv-webp-html */
+/*!
+* index.js
+*
+* © Copyright 2021, Vitalii Tereshchuk https://dotoca.net
+* Released under the MIT license
+* Github: https://github.com/xvoland/gulp-xv-webp-html.git
+*
+* Date: May 30, 2021
+*/
+
 const pluginName = 'gulp-xv-webp-html'
 
-const gutil = require('gulp-util');
-const PluginError = gutil.PluginError;
+const gutil = require('gulp-util')
+const PluginError = gutil.PluginError
 
-const through = require('through2');
+const through = require('through2')
 
 
 module.exports = function (extensions) {
@@ -56,7 +67,7 @@ module.exports = function (extensions) {
                                         '<source srcset="' + newWebpUrl + '" type="image/webp">' +
                                         '<source srcset="' + srcImage + '" type="image/jpeg">' +
                                         imgTag +
-                                      '</picture>';
+                                      '</picture>'
 
                         return line.replace(imgTag, outputHTML)
                     }
