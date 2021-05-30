@@ -1,0 +1,37 @@
+{
+  "name": "gulp-xv-webp-html",
+  "version": "1.0.0",
+  "description": "GULP extension for support <picture> tag WEBP images and replace original image <img> tag in HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xvoland/gulp-xv-webp-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xvoland/gulp-xv-webp-html/issues"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "gulp-webp",
+    "gulp-webp-html",
+    "gulp-xv-webp-html",
+    "webp-fix",
+    "webphtml",
+    "webp",
+    "image",
+    "picture",
+    "html"
+    "xvoland"
+  ],
+  "author": "Vitalii Tereshchuk",
+  "license": "ISC",
+  "homepage": "https://github.com/xvoland/gulp-xv-webp-html",
+  "dependencies": {
+    "plugin-error": "^1.0.0",
+    "through2": "^4.0.2"
+  }
+}
