@@ -36,6 +36,23 @@ npm i --save-dev gulp-xv-webp-html
 
 
 ## Usage
+
+Given a `package.json` file that has some dependencies within:
+
+```json
+  "dependencies": {
+    "plugin-error": "^1.0.0",
+    "through2": "^4.0.2"
+  }
+```
+
+Adding this into your `Gulpfile.js`:
+```javascript
+const gulp = require('gulp')
+const webpHTML = require("gulp-xv-webp-html")
+```
+
+
 #### Example #1
 ```javascript
 var webpHTML = require('gulp-xv-webp-html');
