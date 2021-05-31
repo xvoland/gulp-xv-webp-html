@@ -1,7 +1,7 @@
 {
   "name": "gulp-xv-webp-html",
-  "version": "1.0.3",
-  "description": "GULP extension for support <picture> tag WEBP images and replace original image <img> tag in HTML",
+  "version": "1.0.5",
+  "description": "GULP extension for support tag <picture> WEBP images and replaced original image tag in HTML in other words: replace <img> to <picture> for supports webp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -28,7 +28,10 @@
     "xvoland",
     "avif",
     "jpeg",
-    "gif"
+    "gif",
+    "npm-package",
+    "plugins",
+    "tag-image"
   ],
   "author": "Vitalii Tereshchuk",
   "license": "MIT",

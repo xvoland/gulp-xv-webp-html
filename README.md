@@ -7,6 +7,8 @@ in other words: replace `<img>` to `<picture>` for supports webp
 
 Package home page: https://www.npmjs.com/package/gulp-xv-webp-html
 
+*P.S.: I wrote this npm-package because others similar had errors and sometimes didn't work correctly with the input data.*
+
 ## Output Example
 
 ```html
