@@ -29,7 +29,6 @@ Also, more practical of use you can find in my other project [Gulp HTML Template
 ## Install
 
 ```bash
-npm
 npm i --save-dev gulp-xv-webp-html
 ```
 
@@ -40,7 +39,7 @@ npm i --save-dev gulp-xv-webp-html
 var webpHTML = require('gulp-xv-webp-html');
 
 function html() {
-    return  src('./source/')
+    return  src('./source/*.html')
             .pipe(webpHTML())
             .pipe(gulp.dest('./destHTML/'))
 });
