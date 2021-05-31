@@ -40,10 +40,12 @@ npm i --save-dev gulp-xv-webp-html
 Given a `package.json` file that has some dependencies within:
 
 ```json
+{
   "dependencies": {
     "plugin-error": "^1.0.0",
     "through2": "^4.0.2"
   }
+}
 ```
 
 Adding this into your `Gulpfile.js`:
