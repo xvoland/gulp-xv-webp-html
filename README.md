@@ -25,7 +25,7 @@ Package home page: https://www.npmjs.com/package/gulp-xv-webp-html
 </picture>
 ```
 
-Also, more practical of use you can find in my other project [Gulp HTML Template](https://github.com/xvoland/Gulp-HTML-Template.git)
+Also, more practical of use you can find in my other project [Gulp-xv-HTML-Template](https://github.com/xvoland/gulp-xv-HTML-Template)
 
 
 ## Install
