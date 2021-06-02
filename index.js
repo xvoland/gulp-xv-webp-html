@@ -87,8 +87,8 @@ module.exports = function (extensions) {
 
                                     case '.svg':
                                         line = '<picture>'+
-                                                    '<source srcset="' + newWebpUrl + '" type="image/svg+xml">' +
-                                                    '<source srcset="' + srcImage + '">' +
+                                                    '<source srcset="' + newWebpUrl + '" type="image/webp">' +
+                                                    '<source srcset="' + srcImage + '" type="image/svg+xml">' +
                                                     imgTag +
                                                 '</picture>'
                                         break;
