@@ -20,8 +20,7 @@ const through = require('through2')
 
 module.exports = function (extensions) {
     // support extensions in lower/upper case
-    var extensions = extensions || ['.jpg', '.JPG', '.png', '.PNG', '.gif', '.GIF', '.jpeg', '.JPEG'
-                                    ,'.avif', '.AVIF', '.svg', '.SVG', '.tiff', '.TIFF']
+    var extensions = extensions || ['.jpg', '.png', '.gif', '.jpeg','.avif', '.svg', '.tif']
     return through.obj(function (file, enc, cb) {
         if (file.isNull()) {
             cb(null, file)
@@ -69,11 +68,61 @@ module.exports = function (extensions) {
                                 newWebpUrl = newWebpUrl.replace(ext, '.webp')
 
                                 /* create output HTML with tag <picture> */
-                                line = '<picture>'+
-                                    '<source srcset="' + newWebpUrl + '" type="image/webp">' +
-                                    '<source srcset="' + srcImage + '" type="image/jpeg">' +
-                                    imgTag +
-                                '</picture>'
+                                switch (ext) {
+                                    case '.jpg':
+                                        line = '<picture>'+
+                                                    '<source srcset="' + newWebpUrl + '" type="image/webp">' +
+                                                    '<source srcset="' + srcImage + '" type="image/jpeg">' +
+                                                    imgTag +
+                                            '</picture>'
+                                        break;
+
+                                    case '.png':
+                                        line = '<picture>'+
+                                                    '<source srcset="' + srcImage + '">' +
+                                                    imgTag +
+                                                '</picture>'
+                                        break;
+    
+
+                                    case '.svg':
+                                        line = '<picture>'+
+                                                    '<source srcset="' + newWebpUrl + '" type="image/webp">' +
+                                                    '<source srcset="' + srcImage + '" type="image/svg+xml">' +
+                                                    imgTag +
+                                                '</picture>'
+                                        break;
+
+                                    case '.avif':
+                                        line = '<picture>'+
+                                                    '<source srcset="' + srcImage + '" type="image/avif">' +
+                                                    '<source srcset="' + newWebpUrl + '" type="image/webp">' +
+                                                    imgTag +
+                                            '</picture>'
+                                        break;
+
+                                    case '.gif':
+                                        line = '<picture>'+
+                                                    '<source srcset="' + srcImage + '" media="(prefers-reduced-motion: reduce)">' +
+                                                    imgTag +
+                                                '</picture>'
+                                        break;
+
+                                    case '.tif':
+                                        line = '<picture>'+
+                                                    '<source srcset="' + srcImage + '" type="image/tiff">' +
+                                                    '<source srcset="' + newWebpUrl + '" type="image/webp">' +
+                                                    imgTag +
+                                            '</picture>'
+                                        break;
+    
+                                    default:
+                                        line = '<picture>'+
+                                                    '<source srcset="' + newWebpUrl + '" type="image/webp">' +
+                                                    '<source srcset="' + srcImage + '" type="image/jpeg">' +
+                                                    imgTag +
+                                            '</picture>'
+                                }
                             }
                         }); 
 
