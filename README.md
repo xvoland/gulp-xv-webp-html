@@ -25,8 +25,11 @@ Package home page: https://www.npmjs.com/package/gulp-xv-webp-html
 </picture>
 ```
 
-Also, more practical of use you can find in my other project [Gulp-xv-HTML-Template](https://github.com/xvoland/gulp-xv-HTML-Template)
+**IMPORTANT:** *pay attention to* `type="image/jpeg"`*. This parameter for various types of images is different.*
 
+
+
+Also, more practical of use you can find in my other project [Gulp-xv-HTML-Template](https://github.com/xvoland/gulp-xv-HTML-Template)
 
 ## Install
 
