@@ -11,6 +11,7 @@ Package home page: https://www.npmjs.com/package/gulp-xv-webp-html
 
 ## Output Example
 
+#### Example #1
 ```html
 // Input
 <img class="lazyload" src="/images/Image.jpg" width="100" height="100">
@@ -25,7 +26,20 @@ Package home page: https://www.npmjs.com/package/gulp-xv-webp-html
 </picture>
 ```
 
-**IMPORTANT:** *pay attention to* `type="image/jpeg"`*. This parameter for various types of images is different.*
+#### Example #2
+```html
+// Input
+<img src="/images/Image.svg" width="100" height="100">
+```
+
+```html
+// Output
+<picture>
+    <source srcset="images/Image.webp" type="image/webp">
+    <source srcset="images/Image.svg" type="image/svg+xml">
+    <img src="images/Image.svg" width="100" height="100">
+</picture>
+```
 
 
 
@@ -57,8 +71,8 @@ const gulp = require('gulp')
 const webpHTML = require("gulp-xv-webp-html")
 ```
 
-
 #### Example #1
+
 ```javascript
 var webpHTML = require('gulp-xv-webp-html');
 
