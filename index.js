@@ -56,20 +56,28 @@ module.exports = function (extensions) {
                         /* exit if in URL .webp */
                         if (srcImage.indexOf('.webp') + 1) return line
 
-                        /* replace all occurrences of the extensions */
-                        extensions.forEach(function(extension) {
-                            console.log(extension)
-                            newWebpUrl = newWebpUrl.replace(extension, '.webp')
-                        })
+                        extensions.forEach(ext => {
+                            // console.log( '---> SRC: ' + ext + ' ' + srcImage + ' ' + srcImage.indexOf(ext) )
 
-                        /* create output HTML with tag <picture> */
-                        var outputHTML = '<picture>'+
-                                        '<source srcset="' + newWebpUrl + '" type="image/webp">' +
-                                        '<source srcset="' + srcImage + '" type="image/jpeg">' +
-                                        imgTag +
-                                      '</picture>'
+                            if ( srcImage.indexOf(ext) == -1 ) {
+                                // doesn't require replacement
+                                return line;
 
-                        return line.replace(imgTag, outputHTML)
+                            } else {
+                                /* replace all occurrences of the extensions */
+                                // console.log(newWebpUrl + ' <---REPLACE');
+                                newWebpUrl = newWebpUrl.replace(ext, '.webp')
+
+                                /* create output HTML with tag <picture> */
+                                line = '<picture>'+
+                                    '<source srcset="' + newWebpUrl + '" type="image/webp">' +
+                                    '<source srcset="' + srcImage + '" type="image/jpeg">' +
+                                    imgTag +
+                                '</picture>'
+                            }
+                        }); 
+
+                        return line
                     }
                     return line
                 })
