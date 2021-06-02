@@ -79,7 +79,15 @@ gulp.task("webpHTML", function(){
            .pipe(gulp.dest('./destHTML/'))})
 ```
 
+#### Example #3
+```javascript
+var webpHTML = require('gulp-xv-webp-html');
 
+gulp.task("webpHTML", function(){
+    return gulp.src(['./sourceHTML/**/*.html'])
+           .pipe(webpHTML(['.jpg', '.svg']))
+           .pipe(gulp.dest('./destHTML/'))})
+```
 
 
 ## Donation & Sponsors
