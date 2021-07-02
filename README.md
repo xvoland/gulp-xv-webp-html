@@ -109,6 +109,16 @@ gulp.task("webpHTML", function(){
 ```
 
 
+
+## Visualization of npm dependency
+
+![Default view](https://raw.githubusercontent.com/xvoland/gulp-xv-webp-html/raw/main/images/gulp-xv-webp-html.png)
+
+
+Follow link for live view: [View live 2D map](https://npm.anvaka.com/#/view/2d/gulp-xv-webp-html)
+
+
+
 ## Donation & Sponsors
 
 I’ll continue to work and improve the script features regardless of the outcome of funding, because it's rewarding to see that people are using it and it does the job for them. Still I would appreciate your support in covering some of the expenses with the domain hosting and programming hours which are taken from my family time.
