@@ -79,6 +79,7 @@ module.exports = function (extensions) {
 
                                     case '.png':
                                         line = '<picture>'+
+                                                    '<source srcset="' + newWebpUrl + '" type="image/webp">' +
                                                     '<source srcset="' + srcImage + '">' +
                                                     imgTag +
                                                 '</picture>'
