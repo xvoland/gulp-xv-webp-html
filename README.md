@@ -117,7 +117,8 @@ gulp.task("webpHTML", function(){
 
 Follow link for live view: [View live 2D map](https://npm.anvaka.com/#/view/2d/gulp-xv-webp-html)
 
-
+## Liked it?
+Hope you liked this project, don't forget to give it a star ⭐.
 
 ## Donation & Sponsors
 
