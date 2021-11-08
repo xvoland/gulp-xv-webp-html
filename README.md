@@ -5,7 +5,7 @@ in other words: replace `<img>` to `<picture>` for supports webp
 
 **Support file extensions:**  `.jpg, .png, .gif, .jpeg, .avif, .svg, .tiff`
 
-Package home page: https://www.npmjs.com/package/gulp-xv-webp-html
+[Package home page][npm]
 
 **This NodeJS package is a nice addition to my [HTML-template](https://github.com/xvoland/gulp-xv-HTML-Template) with live update and support SCSS.**
 
@@ -123,15 +123,24 @@ Follow link for live view: [View live 2D map](https://npm.anvaka.com/#/view/2d/g
 
 I’ll continue to work and improve the script features regardless of the outcome of funding, because it's rewarding to see that people are using it and it does the job for them. Still I would appreciate your support in covering some of the expenses with the domain hosting and programming hours which are taken from my family time.
 
-Donate any amount for my projects <a href='https://paypal.me/xvoland'>https://paypal.me/xvoland</a>
+[Donate any amount for my projects][paypal]
 
 
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9D4YBRWH8QURU'><img alt='Click here to lend your support to Extractor and make a donation!' src='https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif' border='0' /></a>
-
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=radical&hide_border=true)
 
 
 
 ## License
 
-Author [Vitalii Tereshchuk](https://dotoca.net). &copy; 2021, MIT license.
-Or welcome to my <a href='https://www.youtube.com/user/xVoLAnD'>YouTube channel</a>
+Author [Vitalii Tereshchuk][home]. &copy; 2021, MIT license.
+Or welcome to my [YouTube channel][youtube]
+
+[home]: http://dotoca.net
+[npm]: https://www.npmjs.com/package/gulp-xv-webp-html
+[paypal]: https://paypal.me/xvoland
+[youtube]: https://youtube.com/xvoland
+[instagram]: https://www.instagram.com/xvoland/
+[hosting]: https://goo.gl/3KpxQI
+[opencollective]: https://opencollective.com/extract/backers/0/website
