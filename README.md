@@ -135,12 +135,6 @@ I’ll continue to work and improve the script features regardless of the outcom
 ## Other
 ### Connect with me:
 
-<style>
-.svg {
-   filter: invert(.5);
-}
-</style>
-
 [<img align="left" alt="xVoLAnD" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][home]
 [<img align="left" alt="xvoland | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Vitalii Tereshchuk | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
