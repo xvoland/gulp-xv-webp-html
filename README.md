@@ -132,6 +132,28 @@ I’ll continue to work and improve the script features regardless of the outcom
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoland&show_icons=true&theme=radical&hide_border=true)
 
 
+## Other
+### Connect with me:
+
+[<img align="left" alt="xVoLAnD" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][home]
+[<img align="left" alt="xvoland | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Vitalii Tereshchuk | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<br />
+<br />
+
+---
+
+📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [USSR Nintendo EG-26 Egg &quot;Ну, погоди!&quot;](https://www.youtube.com/watch?v=BEVh_TlZoN8)
+- [USSR movement POLJOT 2614.2H Made in USSR](https://www.youtube.com/watch?v=63okxl68DBk)
+- [Do you know what is this? Made in USSR.](https://www.youtube.com/watch?v=7eVXoXd43fw)
+- [Repair Samsung GALAXY Tab Pro SM-T520 Replace charger port micro-USB](https://www.youtube.com/watch?v=aL3--8PGQ3c)
+- [Screwdrivers. Make It Better! Restoration and make the best screwdrivers!](https://www.youtube.com/watch?v=K9vVYXvWtc4)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
 
 ## License
 
