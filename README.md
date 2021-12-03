@@ -135,6 +135,10 @@ I’ll continue to work and improve the script features regardless of the outcom
 ## Other
 ### Connect with me:
 
+.svg {
+   filter: invert(.5);
+}
+
 [<img align="left" alt="xVoLAnD" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][home]
 [<img align="left" alt="xvoland | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Vitalii Tereshchuk | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -146,11 +150,11 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 Receipt Paper - How to Restore Information from receipts](https://www.youtube.com/watch?v=Ug8UONy4Vio)
+- [🛠💡 Condom Save from Bad Smell In The Bathroom or How To Resolve a Smelly Bathroom Sink](https://www.youtube.com/watch?v=4Mtdn2tlQI4)
+- [Press to show out the battery charge](https://www.youtube.com/watch?v=KJbjE0e_unE)
+- [💡 How To Start a Car That Has Been Sitting For 3 Years. VW Passat B6](https://www.youtube.com/watch?v=F5HGfXDRlZU)
 - [USSR Nintendo EG-26 Egg &quot;Ну, погоди!&quot;](https://www.youtube.com/watch?v=BEVh_TlZoN8)
-- [USSR movement POLJOT 2614.2H Made in USSR](https://www.youtube.com/watch?v=63okxl68DBk)
-- [Do you know what is this? Made in USSR.](https://www.youtube.com/watch?v=7eVXoXd43fw)
-- [Repair Samsung GALAXY Tab Pro SM-T520 Replace charger port micro-USB](https://www.youtube.com/watch?v=aL3--8PGQ3c)
-- [Screwdrivers. Make It Better! Restoration and make the best screwdrivers!](https://www.youtube.com/watch?v=K9vVYXvWtc4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
