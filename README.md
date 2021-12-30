@@ -5,7 +5,7 @@ in other words: replace `<img>` to `<picture>` for supports webp
 
 **Support file extensions:**  `.jpg, .png, .gif, .jpeg, .avif, .svg, .tiff`
 
-[Package home page][npm]
+[NPM package home page][npm]
 
 **This NodeJS package is a nice addition to my [HTML-template](https://github.com/xvoland/gulp-xv-HTML-Template) with live update and support SCSS.**
 
