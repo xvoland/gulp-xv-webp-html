@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [🛠 DIY Homemade. How to make a cast of gear teeth](https://www.youtube.com/watch?v=S6xzqWgrfJU)
+- [🛠 DIY Homemade. How to repair a cast of gear teeth](https://www.youtube.com/watch?v=S6xzqWgrfJU)
 - [👍🏻 Battery With Voltage Indicator](https://www.youtube.com/watch?v=3FcIKvEo72E)
 - [🛠 Repair PHILIPS Iron power cable DIY](https://www.youtube.com/watch?v=5dH1ZjBJivE)
 - [Why don&#39;t forks overturn matches? Physics.](https://www.youtube.com/watch?v=aLPW195ALWg)
