@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [Poljot Watches Made in USSR #shorts](https://www.youtube.com/watch?v=pWNKs6bZgd8)
+- [🕰  Poljot Watches Made in USSR #shorts](https://www.youtube.com/watch?v=pWNKs6bZgd8)
 - [🕰 POLJOT Watch Chess 2614.2H Made in USSR. Vintage watche after restoration showreel](https://www.youtube.com/watch?v=-yHeivchShw)
 - [🕰💡 How to use a Deployant Clasp on a watch strap from China?](https://www.youtube.com/watch?v=8nLsn8lx9Oc)
 - [💡 How to clean cupronickel spoons from blackness at home? Easy cleaning jewelry.](https://www.youtube.com/watch?v=Kbae3gmG-tQ)
