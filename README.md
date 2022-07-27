@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [Watches POLJOT 2614.2H Black Gold Made in USSR. Restored.](https://www.youtube.com/watch?v=hxssVczJl94)
+- [🕰 Watches POLJOT 2614.2H Black Gold Made in USSR. Restored.](https://www.youtube.com/watch?v=hxssVczJl94)
 - [💡 Amazing tie knots for Hoodies Style. Tie dope beautiful knots on your clothes](https://www.youtube.com/watch?v=pm6SxuY2bes)
 - [🕰  Poljot Watches Made in USSR #shorts](https://www.youtube.com/watch?v=pWNKs6bZgd8)
 - [🕰 POLJOT Watch Chess 2614.2H Made in USSR. Vintage watche after restoration showreel](https://www.youtube.com/watch?v=-yHeivchShw)
