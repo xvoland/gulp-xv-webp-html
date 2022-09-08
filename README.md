@@ -137,7 +137,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
 - [Like Apple](https://www.youtube.com/watch?v=2VQsIh4r1xo)
-- [Logo like Apple &quot;Far Out&quot; 2022 looping. iPhone 14 Pro](https://www.youtube.com/watch?v=EJg9SMQTL3E)
+- [Effect Logo like Apple &quot;Far Out&quot; 2022 looping. iPhone 14 Pro](https://www.youtube.com/watch?v=EJg9SMQTL3E)
 - [Broken TV LCD screen but repairable](https://www.youtube.com/watch?v=s3P6EhQR_sI)
 - [💡 Magic Pills. Raising a Monster and chemistry experiment](https://www.youtube.com/watch?v=1okvOwZ3-O4)
 - [💡 Magic Pills Experiment. Raising a Monster](https://www.youtube.com/watch?v=GnoZ8t6bN68)
