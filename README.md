@@ -136,11 +136,11 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI animation Stable Diffusion short](https://www.youtube.com/watch?v=xQ_92vggjJ0)
 - [4K Amazing Apple VFX logo](https://www.youtube.com/watch?v=CaIpQqSz-n8)
 - [4K Amazing Effect of Ukrainian Trident like Apple Event 2022 logo cgi vfx](https://www.youtube.com/watch?v=lbUmje7smgs)
 - [Effect Logo like Apple &quot;Far Out&quot; 2022 looping. iPhone 14 Pro](https://www.youtube.com/watch?v=EJg9SMQTL3E)
 - [Broken TV LCD screen but repairable](https://www.youtube.com/watch?v=s3P6EhQR_sI)
-- [💡 Magic Pills. Raising a Monster and chemistry experiment](https://www.youtube.com/watch?v=1okvOwZ3-O4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
