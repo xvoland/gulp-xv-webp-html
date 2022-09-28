@@ -136,11 +136,11 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
+- [Funny Halloween Witches](https://www.youtube.com/watch?v=xKwb3Dhfg8A)
 - [AI art effect transformation Tensorflow. My experiments.](https://www.youtube.com/watch?v=kt773i2wWJE)
 - [Stable Diffusion AI animation Kyiv, Ukraine set](https://www.youtube.com/watch?v=bYiZh4v5808)
 - [AI animation Stable Diffusion short](https://www.youtube.com/watch?v=xQ_92vggjJ0)
 - [4K Amazing Apple VFX logo](https://www.youtube.com/watch?v=CaIpQqSz-n8)
-- [4K Amazing Effect of Ukrainian Trident like Apple Event 2022 logo cgi vfx](https://www.youtube.com/watch?v=lbUmje7smgs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
