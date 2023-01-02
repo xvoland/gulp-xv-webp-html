@@ -136,11 +136,11 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 Maths Percentages made easy shorts](https://www.youtube.com/watch?v=Z50tS4XDNaE)
 - [💡 Maths Hack - Percentages. How easy to calculate percents? Percentages made easy](https://www.youtube.com/watch?v=LT1nVWGMtig)
 - [💰 Coin 10 UAH Army Forces of Ukraine AFU](https://www.youtube.com/watch?v=PGad3_ibsHc)
 - [Like Movie DIY Anamorphic Lens](https://www.youtube.com/watch?v=t2fQHIL9wEo)
 - [🛠 DIY Anamorphic Lens Test on the Sony A7](https://www.youtube.com/watch?v=XozksftEQ9I)
-- [💡 🛠 Bought and Disassembly of LOMO Anamorphic 35 NAP2-3](https://www.youtube.com/watch?v=kHDwkf4xD7I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
