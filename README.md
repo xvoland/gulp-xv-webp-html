@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [ macOS A1111 in Photoshop Plugin — Install Plug-in Auto Photoshop SD Plugin Guide](https://www.youtube.com/watch?v=J5yFgUMhwiw)
+- [ macOS A1111 in Photoshop Plugin — How To Install Plug-in Auto Photoshop SD Plugin Guide](https://www.youtube.com/watch?v=J5yFgUMhwiw)
 - [💡 Two Easy Ways: How to Fold Boxer Briefs Hacks. Tips and Tricks for Travels](https://www.youtube.com/watch?v=2B3YhjVuPaM)
 - [Flakpanzer Gepard. Stable Diffusion animation VFX](https://www.youtube.com/watch?v=FnjNLVSqHYY)
 - [🏳️‍🌈 Bi-metal. Metal Physics](https://www.youtube.com/watch?v=63nVqsDQX2w)
