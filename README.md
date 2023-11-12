@@ -136,11 +136,11 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
+- [Warhammer 40000 Art Book](https://www.youtube.com/watch?v=8hH6-E_ZYv4)
 - [Halloween 2023 Illusion](https://www.youtube.com/watch?v=_jsyy0Y-lxw)
 - [💡 BEST AI Prompts #4 - SDXL Apocalyptic landscape and human robots #Lookbook](https://www.youtube.com/watch?v=fiTKD25pIoE)
 - [💡 BEST AI Prompts #3 - Apocalyptic landscape and human robots #Lookbook](https://www.youtube.com/watch?v=Vy410CG0D7U)
 - [💡 BEST AI Prompts for A1111 Stable Diffusion #2 Lookbook](https://www.youtube.com/watch?v=FRy0POdzeI4)
-- [💡 BEST AI Prompts A1111 Stable Diffusion #1 Lookbook](https://www.youtube.com/watch?v=sF2R70QXfb8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
