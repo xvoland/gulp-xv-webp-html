@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [👟🔥 Skechers the AWESOME! Beautiful shoelace for everyday tying life-hacks EVER!](https://www.youtube.com/watch?v=pfjTJw7pzdc)
+- [👟🔥 AWESOME! Beautiful shoelace for everyday tying life-hacks EVER!](https://www.youtube.com/watch?v=pfjTJw7pzdc)
 - [👟✨ Tighten the Butterfly! Stylish way to tie your shoelaces! Life hack for cool shoe lace styles](https://www.youtube.com/watch?v=RBUQvXWR8L8)
 - [💡 How To Clean iPhone Microphones Or Clean the holes on the phone tips and tricks](https://www.youtube.com/watch?v=HdTdPVmAwZw)
 - [Mini-Diskettes 3,5&quot; HD](https://www.youtube.com/watch?v=gTmKEtYI4m8)
