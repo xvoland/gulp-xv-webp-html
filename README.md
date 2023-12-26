@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [💡 The FASTEST and EASIEST way to fillet a sprat. Two Forks and a Sprat! #cooking #food](https://www.youtube.com/watch?v=L1PXR0DARPw)
+- [💡 Quick Sprat Cleaning Method. Two Forks and a Sprat! #cooking #food](https://www.youtube.com/watch?v=L1PXR0DARPw)
 - [[100% MUSIC HIT 2024] Trees In The Forest | MOST POPULAR SONG](https://www.youtube.com/watch?v=HF8WiQwWFiA)
 - [👟🔥 COOLEST! Beautiful Shoelace Style for Everyday life-hacks | tie cool shoe laces](https://www.youtube.com/watch?v=pfjTJw7pzdc)
 - [👟✨ Tighten the Butterfly! Stylish way to tie your shoelaces! Life hack for cool shoe lace styles](https://www.youtube.com/watch?v=RBUQvXWR8L8)
