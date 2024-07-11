@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [Fish Back Knot. How To Tie Knots Tutorial.](https://www.youtube.com/watch?v=vC8rHM9Exo8)
+- [🔥👟 Fish Back Knot. How To Tie Knots Tutorial.](https://www.youtube.com/watch?v=vC8rHM9Exo8)
 - [🛠 QCY headphones. Battery Replacement guide](https://www.youtube.com/watch?v=ePrKIcYn4_g)
 - [10 UAH Coins - State Special Transport Service](https://www.youtube.com/watch?v=Zc7HtRpNmbo)
 - [Fruits Under Macro](https://www.youtube.com/watch?v=7O-mFpQ220E)
