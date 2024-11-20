@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [How to Fix Drawer Slides with Ball Bearings – Easy DIY Guide. Lifetime guarantee](https://www.youtube.com/watch?v=VuP4gkVt_-0)
+- [⚒️ How to Fix Drawer Slides with Ball Bearings – Easy DIY Guide. Lifetime guarantee](https://www.youtube.com/watch?v=VuP4gkVt_-0)
 - [🔥 Lifehack Of Open a Sealed Tube. Did You Know?](https://www.youtube.com/watch?v=YlD9b6KnfdM)
 - [💰 UAH 10 coins 2024 Ukraine’s New Medical Forces Coin. What is the price of the coin?](https://www.youtube.com/watch?v=qdtfhG7LqXg)
 - [AI Avatar Demo](https://www.youtube.com/watch?v=EJhAssYHNNI)
