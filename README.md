@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [🎹🎵  MUSIC: Так, я люблю то... | Yes, I love that... Альбом: Загартована.](https://www.youtube.com/watch?v=sWUk06IYkTg)
+- [🎹🎵  MUSIC: Так, я люблю то... | Yes, I love that... Альбом: Загартована.](https://www.youtube.com/watch?v=N8qaaXJx9Ik)
 - [Так, я люблю то... – україномовна пісня-балада про пристрасть та тінь #music #ukrainemusic #ukraine](https://www.youtube.com/watch?v=5y3ZoEiTkIs)
 - [🎹🎵 Так, я люблю то... | Yes, I love that... Альбом: Загартована.](https://www.youtube.com/watch?v=sLOwVzjZpIQ)
 - [ Open WebUI on macOS - 500 Internal Server Error](https://www.youtube.com/watch?v=o27YivGfE2w)
