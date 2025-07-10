@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [Turn Any Photo Into Stunning AI Art with Just One Prompt | High-Resolution Ghibli &amp; Cinematic Style](https://www.youtube.com/watch?v=1T2eQ3pvSLk)
+- [Any Photo Into Stunning Art | High-Resolution Ghibli &amp; Cinematic Style](https://www.youtube.com/watch?v=1T2eQ3pvSLk)
 - [2025 Fix Blurry Old Photos in 5 Seconds with AI &lpar;Free!&rpar; | Tutorial](https://www.youtube.com/watch?v=HdXzf8ucUzA)
 - [Photo Restoration: Free AI Tool Transform Your Old Photos - Instantly!](https://www.youtube.com/watch?v=-hV9mBcCvro)
 - [Stepan Andriyovych Bandera | AI Animation](https://www.youtube.com/shorts/dXi-ZVlqrZI)
