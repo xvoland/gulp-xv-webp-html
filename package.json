@@ -37,7 +37,7 @@
   "license": "MIT",
   "homepage": "https://github.com/xvoland/gulp-xv-webp-html",
   "dependencies": {
-    "plugin-error": "^1.0.0",
+    "plugin-error": "^2.0.1",
     "through2": "^4.0.2"
   }
 }
