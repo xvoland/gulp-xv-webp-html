@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [🔥 Artemis II Live Mission Map &lpar;Orion&rpar;](https://www.youtube.com/watch?v=BTAg2EoyciE)
+- [🔥 Artemis II Live Mission Map &lpar;Orion&rpar; | Day 5 -](https://www.youtube.com/watch?v=ChmaNMHU9CQ)
 - [OptiGrid – Optical Illusion Pattern Generator](https://www.youtube.com/shorts/uJ_X90zbwUQ)
 - [Gemini 3.1 Nano Banana 2 - AI Photoshop Plugin jsxNanaBananaPro v0.6.4](https://www.youtube.com/watch?v=GtspFSN7VlI)
 - [How To Change The Thumbnail for Shorts using the YouTube app for iOS #youtube #techtips #tutorial](https://www.youtube.com/shorts/_1UBbKtWUT4)
