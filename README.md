@@ -136,11 +136,11 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔥 Artemis II Live Mission Map &lpar;Orion&rpar; | Day 7 #nasa  #artemis  #artemismission](https://www.youtube.com/watch?v=6mf7c470LrM)
 - [🔥 Artemis II Live Mission Map &lpar;Orion&rpar; | Day 7 #nasa  #artemis  #artemismission](https://www.youtube.com/watch?v=lndQ4OZvH94)
 - [🔥 Artemis II Live Mission Map &lpar;Orion&rpar; | Day 7 #nasa  #artemis  #artemismission](https://www.youtube.com/watch?v=nUDs7_73Ozk)
 - [🔥 Artemis II Live Mission Map &lpar;Orion&rpar; | Day 7 #nasa  #artemis  #artemismission](https://www.youtube.com/watch?v=ZV5zYq2RFyA)
 - [🔥 Artemis II Live Mission Map &lpar;Orion&rpar; | Day 7 #nasa  #artemis  #artemismission](https://www.youtube.com/watch?v=JMqvsG7BYXE)
-- [OptiGrid – Optical Illusion Pattern Generator](https://www.youtube.com/shorts/uJ_X90zbwUQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
