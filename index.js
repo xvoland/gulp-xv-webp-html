@@ -12,8 +12,7 @@
 
 const pluginName = 'gulp-xv-webp-html'
 
-const gutil = require('gulp-util')
-const PluginError = gutil.PluginError
+const PluginError = require('plugin-error');
 
 const through = require('through2')
 
