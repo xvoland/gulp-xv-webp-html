@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [ZED Editor: How to Install Local Predictions Ollama or Another LLM](https://www.youtube.com/watch?v=84UrjoxWsjI)
+- [Zed Editor: How to Install Local Predictions Ollama or Another LLM](https://www.youtube.com/watch?v=84UrjoxWsjI)
 - [🍌 Whats New Photoshop Plugin jsxNanaBanana v0.7.0 ? | #photoshop #tutorial](https://www.youtube.com/shorts/o-VuB9jczMI)
 - [🔴  How to make a Trump Knife WITHOUT using power tools, it&#39;s possible? | ASMR](https://www.youtube.com/watch?v=5m0Y7uwQtJU)
 - [DIY Vax Cordless Vacuum Repair – It Runs for a Few Seconds and Shuts Off](https://www.youtube.com/watch?v=L1OjCoXUaoU)
