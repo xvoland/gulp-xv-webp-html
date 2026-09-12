@@ -136,11 +136,11 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔴 iPhone Duo or iPhone 18 Pro Max ?](https://www.youtube.com/watch?v=4mNW4lPKOvY)
 - [iPhone Duo - Special Orthodox Editional](https://www.youtube.com/watch?v=kfPH8XVLiLY)
 - [iPhone Duo - Special Edition #iphoneduo #apple #iphone](https://www.youtube.com/shorts/3QBO3kMxQws)
 - [Auto Volume Normalizer - FREE Google Chrome extension](https://www.youtube.com/shorts/qJwIki3qWlc)
 - [🔴  Auto Volume Normalizer - FREE Google Chrome Extension](https://www.youtube.com/watch?v=inoumB94HvQ)
-- [🔴  Zed Editor: How to Install Local Predictions Ollama or Another LLM](https://www.youtube.com/watch?v=84UrjoxWsjI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
