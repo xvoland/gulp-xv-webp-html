@@ -136,7 +136,7 @@ I’ll continue to work and improve the script features regardless of the outcom
 
 📺 Latest my YouTube Videos
 <!-- YOUTUBE:START -->
-- [🔴 Your choice: iPhone Duo or iPhone 18 Pro Max ?](https://www.youtube.com/watch?v=650_EaBB3dw)
+- [🔴 Your choice: iPhone Duo or iPhone 18 Pro Max ?](https://www.youtube.com/watch?v=wolHVPq9kd0)
 - [iPhone Duo - Special Orthodox Editional](https://www.youtube.com/watch?v=kfPH8XVLiLY)
 - [iPhone Duo - Special Edition #iphoneduo #apple #iphone](https://www.youtube.com/shorts/3QBO3kMxQws)
 - [Auto Volume Normalizer - FREE Google Chrome extension](https://www.youtube.com/shorts/qJwIki3qWlc)
